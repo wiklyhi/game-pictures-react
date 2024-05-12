@@ -1,0 +1,14 @@
+.bg {
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 10px;
+  
+  }
+
+.control {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    margin-bottom: 1rem;
+}
